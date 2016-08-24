@@ -1,0 +1,19 @@
+{
+  "name": "bezier_curves",
+  "version": "1.0.0",
+  "description": "Experimenting drawing curves with JS",
+  "main": "app.js",
+  "scripts": {
+    "test": "http-server -p 3000 -o"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martin-banks/bezierCurves.git"
+  },
+  "author": "Martin Banks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martin-banks/bezierCurves/issues"
+  },
+  "homepage": "https://github.com/martin-banks/bezierCurves#readme"
+}
