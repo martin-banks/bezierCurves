@@ -2,7 +2,7 @@
 	/* how to guide 
 	 http://www.html5canvastutorials.com/tutorials/html5-canvas-bezier-curves/
 	*/
-	var body = document.body;
+	const body = document.body;
 	var html = document.documentElement;
 	var pageHeight = Math.max( body.scrollHeight, 
 							body.offsetHeight, 
